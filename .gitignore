@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+*.dll
+*.manifest
+*.spec
+
+.venv/
+venv/
+env/
+.env
+
+.idea/
+.vscode/
+
+# 本地数据与输出，不应上传到 GitHub
+原始数据/
+系统模板/
+输出结果/
+*.xlsx
+*.xls
+*.zip
+*.docx
+*.jpg
+*.jpeg
+*.png
+
+# 系统与临时文件
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
